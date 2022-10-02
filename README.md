@@ -14,5 +14,6 @@ This is a demo repo of sharing idea around technical communication
 this is the [notebook](technical-docs.ipynb)
 
 ### Image
+![image](https://user-images.githubusercontent.com/66756919/193438098-f2fc7d95-0fed-47a5-b222-32b3f68797d7.png)
 
 
